@@ -4,6 +4,8 @@
 ### Neues Projekt hinzufügen:
 #### 0. Gänzlich neues Projekt(Solution) anlegen
 ````cmd
+mkdir <project-directory>
+cd <project-directory>
 dotnet new sln
 ````
 
