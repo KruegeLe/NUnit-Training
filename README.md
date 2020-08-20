@@ -11,7 +11,7 @@ mkdir <project-directory>
 ````cmd
 cd <project-directory>
 ````   
-##### 1.3 Soluion erstellen: 
+##### 1.3 Solution erstellen: 
 ````cmd
 dotnet new sln
 ````
