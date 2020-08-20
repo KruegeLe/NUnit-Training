@@ -1,0 +1,9 @@
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.csprojAssemblyReference.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.AssemblyInfoInputs.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.AssemblyInfo.cs
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.csproj.CoreCompileInputs.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\bin\Debug\netstandard2.0\ExtensionMethods.Source.deps.json
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\bin\Debug\netstandard2.0\ExtensionMethods.Source.dll
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\bin\Debug\netstandard2.0\ExtensionMethods.Source.pdb
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.dll
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\ExtensionMethods\ExtensionMethods.Source\obj\Debug\netstandard2.0\ExtensionMethods.Source.pdb
