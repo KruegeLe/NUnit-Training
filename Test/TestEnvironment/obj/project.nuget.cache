@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqu4B6ZgoqkBXo7VKkJmdQrvk7u+vFEPEhrCPPMc6h2O6m6fDNCEiNYjDu5YfvuxpqBM4SAoTOiMRschwU3sbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\Test\\TestEnvironment\\TestEnvironment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KruegeLe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KruegeLe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

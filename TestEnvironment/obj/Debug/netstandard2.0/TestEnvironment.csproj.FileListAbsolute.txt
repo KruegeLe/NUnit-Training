@@ -1,9 +1,0 @@
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\bin\Debug\netstandard2.0\TestEnvironment.deps.json
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\bin\Debug\netstandard2.0\TestEnvironment.dll
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\bin\Debug\netstandard2.0\TestEnvironment.pdb
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.csprojAssemblyReference.cache
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.AssemblyInfoInputs.cache
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.AssemblyInfo.cs
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.csproj.CoreCompileInputs.cache
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.dll
-C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\TestEnvironment\obj\Debug\netstandard2.0\TestEnvironment.pdb
