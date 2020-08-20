@@ -36,12 +36,12 @@ dotnet new classlib
 ````cmd
 cd ..
 ````
-##### 4.2 Projekt zur SOlution hinzufügen
+##### 4.2 Projekt zur Solution hinzufügen
 ````cmd
 dotnet sln add <directory>/<directory>.csproj
 ````
 
-#### 5. Ordner für Tests erstellen (konventionell: <directory>.Tests)
+#### 5. Ordner für Tests erstellen (konventionell: \<directory>.Tests)
 ````cmd
 mkdir <directory>.Tests
 ````
@@ -56,7 +56,7 @@ cd <directory>.Tests
 dotnet new nunit
 ````
 
-#### 7. ClassLibrary als Abhängigkeit hinzufügen
+#### 7. Class Library als Abhängigkeit hinzufügen
 ````cmd
 dotnet add reference ../<directory>/<directory>.csproj
 ````
