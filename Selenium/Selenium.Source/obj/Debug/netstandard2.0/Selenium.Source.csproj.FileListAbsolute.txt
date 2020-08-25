@@ -1,0 +1,9 @@
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.csprojAssemblyReference.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.AssemblyInfoInputs.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.AssemblyInfo.cs
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.csproj.CoreCompileInputs.cache
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\bin\Debug\netstandard2.0\Selenium.Source.deps.json
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\bin\Debug\netstandard2.0\Selenium.Source.dll
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\bin\Debug\netstandard2.0\Selenium.Source.pdb
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.dll
+C:\Users\KruegeLe\OneDrive - andagon people GmbH\Projekte\NUnit\Selenium\Selenium.Source\obj\Debug\netstandard2.0\Selenium.Source.pdb

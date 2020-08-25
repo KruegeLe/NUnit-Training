@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VfzDyb8Uo56DlV93nM8JyzpmQCLLn0Cyvf9D5I9+qelZsQ6u1cu9IBZ9leKcsvB9u1O0UK9+maT5LLGXKw8BEw==",
+  "dgSpecHash": "mFNuJhqE03jb+07SiyTgcvX9P0UTei3ibZR4NdlqBmJZrdTrHwid77E8G3kTjXfSdIjOQkLG+lU0MQvkJhRtBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj",
+  "projectFilePath": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KruegeLe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\KruegeLe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

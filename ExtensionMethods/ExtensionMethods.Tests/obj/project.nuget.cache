@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7X/0J2eA9hd5h6trcI0yK6W6WUIRn0458tt0U/663VBOdB/CptU4bmCrxZBSyrWBqr4tBwBXxlrGov2yGcup8A==",
+  "dgSpecHash": "N697YCQeSQQBpzhuisFhUvkp72pySANMycQo0gK3Xd8wvXOOndTDZ16ZF4BkAT4lHqttKdZ6UVW19huA12Dh5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
+  "projectFilePath": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KruegeLe\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\KruegeLe\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

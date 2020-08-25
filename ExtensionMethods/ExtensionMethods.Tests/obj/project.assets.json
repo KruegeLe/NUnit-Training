@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
       "projectName": "ExtensionMethods.Tests",
-      "projectPath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
+      "projectPath": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\ExtensionMethods.Tests.csproj",
       "packagesPath": "C:\\Users\\KruegeLe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\obj\\",
+      "outputPath": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KruegeLe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4667,8 +4667,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj": {
-              "projectPath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj"
+            "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj": {
+              "projectPath": "c:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\NUnit\\ExtensionMethods\\ExtensionMethods.Source\\ExtensionMethods.Source.csproj"
             }
           }
         }
